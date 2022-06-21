@@ -1,4 +1,4 @@
-# Desafio-tela_instagram
+# Desafio-tela-instagram
 Esse foi um desafio de DIO aonde o Objetivo era criar uma tela igual ao login do instagram usando flex box.
 
 ## Os requesitos basicos são!
